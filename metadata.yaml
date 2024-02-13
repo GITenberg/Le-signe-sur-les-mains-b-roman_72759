@@ -1,0 +1,36 @@
+_repo: Le-signe-sur-les-mains-b-roman_72759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baumann, Emile
+    alias: Baumann, Émile
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '54854'
+    url: http://www.gutenberg.org/2009/agents/54854
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89mile_Baumann
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Baumann_(%C3%A9crivain)
+description: ''
+gutenberg_issued: '2024-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72759'
+  lccn: '26015223'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9734962s
+pgterms:marc905: 20240117114822baumann
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bBernard Grasset, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Le signe sur les mains : $b roman'
+url: http://www.gutenberg.org/ebooks/72759
